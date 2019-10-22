@@ -1,1 +1,1 @@
-# This project was created only to getting skills in working with GitBash.
+This project was created only to get skills in working with GitBash.
